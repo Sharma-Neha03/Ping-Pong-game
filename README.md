@@ -1,7 +1,7 @@
 # Ping-Pong-game
 This is my first game
 <br>
-A simple Ping Pong game built using [Technology used: Java, JavaScript, etc.]. 
+A simple Ping Pong game built using [Technology used: Java]. 
 <br>
 Players control paddles to hit the ball and compete for points.
 
