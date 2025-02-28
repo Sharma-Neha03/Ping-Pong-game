@@ -16,10 +16,12 @@ Sound effects for ball hits and scoring
 Smooth paddle controls
 
 How to Play:
+<br>
 -> Run the game
 <br>
 -> Controls:
      Player 1: Q (Up) & A (Down)
+     <br>
      Player 2: P (Up) & L (Down)
 <br>
 -> Score points by hitting the ball past the opponent’s paddle
